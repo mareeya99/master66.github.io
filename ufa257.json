@@ -2,43 +2,60 @@
   "type": "flex",
   "altText": "You received a message",
   "contents": {
-  "type": "bubble",
-  "hero": {
-    "type": "image",
-    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
-    "size": "full",
-    "aspectRatio": "1:1",
-    "offsetTop": "none"
-  },
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "text",
-        "text": "hello, world"
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/7295b7b40d252d05df66be601a3e41ee.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
       },
-      {
-        "type": "text",
-        "text": "hello, world"
-      },
-      {
-        "type": "รับเครดิตฟรี",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "https://lin.ee/q6k3706"
-        }
-      },
-      {
-        "type": "button",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "http://linecorp.com/"
-        }
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "JOKER747",
+            "size": "xl",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "เกมสล็อตออนไลน์รูปแบบใหม่ แจกทุนฟรี ถอนเงินได้จริง ไม่ต้องฝากก่อน",
+            "align": "center",
+            "size": "sm",
+            "margin": "xs",
+            "wrap": true,
+            "color": "#CC9933"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับทุนฟรี",
+              "uri": "https://lin.ee/q6k3706"
+            },
+            "style": "primary",
+            "color": "#660000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เข้าสู่เว็บไซต์",
+              "uri": "https://www.ufabet-618.com/register/index.php"
+            },
+            "style": "primary",
+            "color": "#000000"
+          }
+        ],
+        "margin": "none",
+        "spacing": "md"
       }
-    ]
-  }
+    }
+  ]
 }
 }]
