@@ -29,7 +29,7 @@
             "size": "sm",
             "margin": "xs",
             "wrap": true,
-            "color": "#32CD32"
+            "color": "#000000"
           },
           {
             "type": "button",
@@ -39,7 +39,7 @@
               "uri": "https://lin.ee/a6lEnnZ"
             },
             "style": "primary",
-            "color": "#990000"
+            "color": "#32CD32"
           },
           {
             "type": "button",
