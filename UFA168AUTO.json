@@ -1,0 +1,61 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/28a19f2b3b148061a9308d545d413a0d.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Autobet168🏆",
+            "size": "xl",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "แจกทุน 300 ถอนเงินได้จริง ไม่ต้องฝากก่อน",
+            "align": "center",
+            "size": "sm",
+            "margin": "xs",
+            "wrap": true,
+            "color": "#000000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับทุน 300 บาท",
+              "uri": "https://lin.ee/a6lEnnZ"
+            },
+            "style": "primary",
+            "color": "#32CD32"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เข้าสู่เว็บไซต์",
+              "uri": "https://autobet-168.com"
+            },
+            "style": "primary",
+            "color": "#000000"
+          }
+        ],
+        "margin": "none",
+        "spacing": "md"
+      }
+    }
+  ]
+}
+}]
