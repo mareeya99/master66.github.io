@@ -1,0 +1,61 @@
+[{
+  "type": "flex",
+  "altText": "Luca-gaming99",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/84f1b2872e65d0624485fd071234b685.png",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Luca-gaming99",
+            "size": "xl",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "ระบบฝากถอนอัตโนมัติ ไม่ต้องแจ้งสลิปฝากเงิน เล่นง่าย ได้เงินจริง",
+            "align": "center",
+            "size": "sm",
+            "margin": "xs",
+            "wrap": true,
+            "color": "#FFD700"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี 50 ไม่ต้องฝากก่อน",
+              "uri": "https://lin.ee/1FI5e4F"
+            },
+            "style": "primary",
+            "color": "#B22222"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝาก 39 รับ 100",
+              "uri": "https://autobet-168.com"
+            },
+            "style": "primary",
+            "color": "#000000"
+          }
+        ],
+        "margin": "none",
+        "spacing": "md"
+      }
+    }
+  ]
+}
+}]
