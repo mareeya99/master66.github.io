@@ -1,0 +1,61 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/faa7ca1240d9be270e18b058408ac31f.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "369super",
+            "size": "xl",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "เกมสล็อตออนไลน์รูปแบบใหม่ แจกทุนฟรี ถอนเงินได้จริง ไม่ต้องฝากก่อน",
+            "align": "center",
+            "size": "sm",
+            "margin": "xs",
+            "wrap": true,
+            "color": "#CC9933"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี3OO!!",
+              "uri": "https://lin.ee/MudTnVs"
+            },
+            "style": "primary",
+            "color": "#CC0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เข้าสู่เว็บไซต์",
+              "uri": "https://autobet-168.com"
+            },
+            "style": "primary",
+            "color": "#000000"
+          }
+        ],
+        "margin": "none",
+        "spacing": "md"
+      }
+    }
+  ]
+}
+}]
