@@ -1,12 +1,17 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "🔥เธอคะ",
   "contents": {
   "type": "bubble",
   "hero": {
     "type": "image",
     "url": "https://www.img.in.th/images/719c207dcf80f460ef317e3ea1b34214.jpg",
-    "size": "full"
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/QUWt6A2"
+    }
   },
   "body": {
     "type": "box",
@@ -16,7 +21,12 @@
         "type": "image",
         "url": "https://allbet.co/build/web/sa-allbet/img/logo-animated.png",
         "size": "full",
-        "aspectRatio": "2:1"
+        "aspectRatio": "3:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/QUWt6A2"
+        }
       },
       {
         "type": "text",
@@ -50,13 +60,23 @@
         "type": "image",
         "url": "https://sbobetsonic.com/wp-content/uploads/2021/08/%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%8A%E0%B8%B4%E0%B8%81.png",
         "size": "full",
-        "aspectRatio": "3:1"
+        "aspectRatio": "3:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/QUWt6A2"
+        }
       },
       {
         "type": "image",
         "url": "https://www.wunlawealth.com/wp-content/uploads/2021/07/add-line-icon.png",
         "size": "5xl",
-        "aspectRatio": "3:1"
+        "aspectRatio": "3:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/QUWt6A2"
+        }
       }
     ],
     "backgroundColor": "#000033"
