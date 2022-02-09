@@ -35,11 +35,11 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "รับเครดิตฟรี",
+              "label": "รับฟรี139",
               "uri": "https://lin.ee/zjVdvqO"
             },
             "style": "primary",
-            "color": "#660000"
+            "color": "#000066"
           },
           {
             "type": "button",
