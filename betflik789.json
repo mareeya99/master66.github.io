@@ -1,0 +1,61 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/644a34d0268c0525f2df68d8358e368a.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "BetFlik789",
+            "size": "xl",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "BetFlik789 เกมสล็อตออนไลน์รูปแบบใหม่ แจกเครดิตฟรี ไม่ต้องฝากก่อน ถอนได้จริง",
+            "align": "center",
+            "size": "sm",
+            "margin": "xs",
+            "wrap": true,
+            "color": "#CC9933"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี100",
+              "uri": "https://lin.ee/kVHJtPb"
+            },
+            "style": "primary",
+            "color": "#3300CC"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://allroyal789.online/"
+            },
+            "style": "primary",
+            "color": "#000033"
+          }
+        ],
+        "margin": "none",
+        "spacing": "md"
+      }
+    }
+  ]
+}
+}]
