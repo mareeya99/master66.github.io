@@ -8,7 +8,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://www.img.in.th/images/28a19f2b3b148061a9308d545d413a0d.jpg",
+        "url": "https://www.img.in.th/images/6af9541270715885834c74208f1ca9aa.png",
         "size": "full",
         "aspectRatio": "1:1"
       },
@@ -18,13 +18,13 @@
         "contents": [
           {
             "type": "text",
-            "text": "Autobet168🏆",
+            "text": "Allroyal789 Online⭐",
             "size": "xl",
             "align": "center"
           },
           {
             "type": "text",
-            "text": "แจกทุน 300 ถอนเงินได้จริง ไม่ต้องฝากก่อน",
+            "text": "แนะนำเพื่อนสมัครรับทันที 300 เครดิต ทำยอด 1000 ถอนได้ 300",
             "align": "center",
             "size": "sm",
             "margin": "xs",
@@ -35,11 +35,11 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "รับทุน 300 บาท",
-              "uri": "https://lin.ee/gOxs5Op"
+              "label": "รับฟรี300แค่แนะนำเพื่อนสมัคร",
+              "uri": "https://lin.ee/T4AIX16"
             },
             "style": "primary",
-            "color": "#32CD32"
+            "color": "#996600"
           },
           {
             "type": "button",
