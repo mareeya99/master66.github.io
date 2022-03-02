@@ -35,7 +35,7 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "รับฟรี300แค่แนะนำเพื่อนสมัคร",
+              "label": "รับฟรี300",
               "uri": "https://lin.ee/T4AIX16"
             },
             "style": "primary",
