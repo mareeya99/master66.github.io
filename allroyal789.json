@@ -8,7 +8,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://www.img.in.th/images/6af9541270715885834c74208f1ca9aa.png",
+        "url": "https://www.img.in.th/images/82aa826c2176137238cf3028719e0734.png",
         "size": "full",
         "aspectRatio": "1:1"
       },
@@ -18,13 +18,13 @@
         "contents": [
           {
             "type": "text",
-            "text": "Allroyal789 Online⭐",
+            "text": "Allroyal789 Callcenter⭐",
             "size": "xl",
             "align": "center"
           },
           {
             "type": "text",
-            "text": "แนะนำเพื่อนสมัครรับทันที 300 เครดิต ทำยอด 1000 ถอนได้ 300",
+            "text": "สมัครสมาชิกรับ 139 เครดิตฟรี ไม่ต้องฝากก่อน",
             "align": "center",
             "size": "sm",
             "margin": "xs",
@@ -35,7 +35,7 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "รับฟรี300",
+              "label": "สมัครรับ139ไม่ต้องฝากก่อน",
               "uri": "https://lin.ee/T4AIX16"
             },
             "style": "primary",
