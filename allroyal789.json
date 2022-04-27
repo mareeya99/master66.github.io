@@ -8,7 +8,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://www.img.in.th/images/82aa826c2176137238cf3028719e0734.png",
+        "url": "https://www.img.in.th/images/46e1905090a0602ceeb8288407cbcd30.jpg",
         "size": "full",
         "aspectRatio": "1:1"
       },
@@ -24,12 +24,12 @@
           },
           {
             "type": "text",
-            "text": "สมัครสมาชิกรับ 139 เครดิตฟรี ไม่ต้องฝากก่อน",
+            "text": "สมัครสมาชิกรับ 50 เครดิตฟรี ไม่ต้องทำกิจกรรม",
             "align": "center",
             "size": "sm",
             "margin": "xs",
             "wrap": true,
-            "color": "#000000"
+            "color": "#990000"
           },
           {
             "type": "button",
