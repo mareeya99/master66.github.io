@@ -29,14 +29,14 @@
             "size": "sm",
             "margin": "xs",
             "wrap": true,
-            "color": "#990000"
+            "color": "#000000"
           },
           {
             "type": "button",
             "action": {
               "type": "uri",
               "label": "แชร์เครดิตฟรี",
-              "uri": "https://lin.ee/T4AIX16"
+              "uri": "https://lin.ee/eId59HG"
             },
             "style": "primary",
             "color": "#990000"
